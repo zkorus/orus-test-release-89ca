@@ -5,8 +5,10 @@ role: release
 item: "#5"
 machine: m-054d3c6a
 attempt: 1
-state: running
+state: finished
 resumes: null
 started: 2026-10-19T06:48:55Z
 role_commit: e37f7d34edd6494956aaadafd90a18a2b15ab6e1
 agent: false
+ended: 2026-10-19T06:49:37Z
+reason: v0.1.0 released
