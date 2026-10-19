@@ -1,0 +1,12 @@
+v: 0
+run: 20261019T064752Z-release-88f0
+repo: zkorus/orus-test-release-89ca
+role: release
+item: "#5"
+machine: m-054d3c6a
+attempt: 1
+state: running
+resumes: null
+started: 2026-10-19T06:47:52Z
+role_commit: e37f7d34edd6494956aaadafd90a18a2b15ab6e1
+agent: false
