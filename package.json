@@ -1,0 +1,8 @@
+{
+  "name": "orus-test-release-89ca",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  }
+}
